@@ -19,7 +19,7 @@ fun biodata(nama: String, makananKesukaan: String, kelas: String = "2A") {
 fun hobby(nama: String, deskripsi: String) {
     println("""
         =================================================================
-        |                              Hobi                   
+        |                              Hobi                             |
         =================================================================
         Hobi        : $nama
         Deskripsi   : $deskripsi
