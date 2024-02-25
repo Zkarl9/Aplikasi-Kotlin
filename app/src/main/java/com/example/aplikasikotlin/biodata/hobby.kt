@@ -11,7 +11,7 @@ fun biodata(nama: String, makananKesukaan: String, kelas: String = "2A") {
         =                             Hello                              =
         ------------------------------------------------------------------
         Nama saya $nama. Saya sekarang kuliah di Politeknik Negeri Madiun
-        kelas $kelas. Makanan Kesukaan saya adalah $makananKesukaan
+        kelas $kelas. Makanan Favorit saya adalah $makananKesukaan
     """.trimIndent())
     print("\n")
 }
