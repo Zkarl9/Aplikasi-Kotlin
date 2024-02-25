@@ -2,7 +2,7 @@ package com.example.aplikasikotlin.biodata
 
 fun main(args: Array<String>) {
     biodata("Haikal Azzrial Akbar", "hal hal yang memiliki rasa asin")
-    hobby("Game", "Saya suka bermain Mobile Legend kalau belum immortal belum istirahat")
+    hobby("Game", "Saya suka bermain Mobile Legend kalau belum immortal belum tidur")
 }
 
 fun biodata(nama: String, makananKesukaan: String, kelas: String = "2A") {
